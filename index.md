@@ -3,7 +3,7 @@ layout: media
 permalink: /
 title: "We review the tech!"
 image:
-	feature: /images/tech.jpg
+	feature: tech.jpg
 	credit: Jeff Sheldon
 	creditlink: https://unsplash.com/@ugmonk?photo=9dI3g8owHiI
 ads: true
