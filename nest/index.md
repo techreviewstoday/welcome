@@ -1,7 +1,8 @@
 ---
 layout: article
-permalink: /welcome/nest
+permalink: /nest
 title: "Nest Thermostat"
+date: 2017-02-03
 image:
   feature: nest.jpg
 ads: true
