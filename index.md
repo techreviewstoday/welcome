@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 permalink: /
 title: "We review the tech!"
 image:
@@ -7,6 +7,7 @@ image:
 	credit: Jeff Sheldon
 	creditlink: https://unsplash.com/@ugmonk?photo=9dI3g8owHiI
 ads: true
+share: false
 ---
 
 ## Welcome to Tech Reviews Today!
