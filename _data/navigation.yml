@@ -1,6 +1,16 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: Nest Thermostat
+  url: /nest
+  excerpt: ""
+  image: nest.jpg
+
+- title: iPhone
+  url: /iphone
+  excerpt: ""
+  image: iphone.jpg
+
+- title: Android
+  url: /android
+  excerpt: ""
+  image: android.jpg
