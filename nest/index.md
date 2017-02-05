@@ -1,7 +1,7 @@
 ---
 layout: article
 permalink: /nest
-title: "Nest Thermostat"
+title: "Nest Thermostat Review"
 date: 2017-02-03
 image:
   feature: nest.jpg
