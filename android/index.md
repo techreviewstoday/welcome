@@ -13,4 +13,4 @@ share: false
 
 ## Android Review 2017
 
-Yes, it's better than [the iPhone](/iphone).
+Yes, it's better than [the iPhone](welcome/iphone).
