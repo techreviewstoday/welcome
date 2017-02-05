@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: default
 permalink: /
 title: "We review the tech!"
 image:
