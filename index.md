@@ -2,6 +2,7 @@
 layout: archive
 permalink: /
 title: "Latest Posts"
+ads: true
 ---
 
 <div class="tiles">
