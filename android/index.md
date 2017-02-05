@@ -1,6 +1,6 @@
 ---
 layout: article
-permalink: /nest
+permalink: /android
 title: "Android Review"
 date: 2017-02-03
 image:

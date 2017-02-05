@@ -1,6 +1,6 @@
 ---
 layout: article
-permalink: /nest
+permalink: /iphone
 title: "iPhone Review"
 date: 2017-02-03
 image:
