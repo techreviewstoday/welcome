@@ -1,6 +1,11 @@
 # Site navigation links
 
-- title: Nest Thermostat
+- title: Home
+  url: /
+  excerpt: ""
+  image: tech.jpg
+
+- title: Nest
   url: /nest
   excerpt: ""
   image: nest.jpg

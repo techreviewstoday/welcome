@@ -1,7 +1,7 @@
 ---
 layout: article
 permalink: /iphone
-title: "iPhone Review"
+title: "iPhone Review 2017"
 date: 2017-02-03
 image:
   feature: iphone.jpg
@@ -11,6 +11,5 @@ ads: true
 share: false
 ---
 
-## iPhone Review 2017
 
 Meh.

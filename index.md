@@ -12,4 +12,4 @@ share: false
 
 ## Welcome to Tech Reviews Today!
 
-Here, you'll find the best and latest reviews in everything to do with tech.  We're still getting things running so come back soon!
+Here, you'll find the best and latest reviews in everything to do with tech.
