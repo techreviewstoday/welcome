@@ -12,4 +12,4 @@ share: false
 ---
 
 
-Yes, it's better than [the iPhone](/iphone).
+Yes, it's better than [the iPhone](welcome/iphone).
